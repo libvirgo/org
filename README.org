@@ -1,0 +1,6 @@
+#+title: Note
+#+author: libvirgo
+#+language: chinese
+
+* 个人日常学习笔记
+
